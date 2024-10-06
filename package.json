@@ -1,0 +1,11 @@
+{
+  "name": "lesson-1",
+  "version": "0.0.1",
+  "main": "app.js",
+  "scripts": {
+    "exec": "node .\\app.js"
+  },
+  "author": "Woloja",
+  "license": "UNLICENSED",
+  "description": ""
+}
